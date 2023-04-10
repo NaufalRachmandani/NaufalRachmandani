@@ -1,14 +1,17 @@
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=NaufalRachmandani" />
-
-<h1 align="center"></h1>
 <img align="left" height="200px" width="450px" src="https://github-readme-stats.vercel.app/api?username=NaufalRachmandani&count_private=true&show_icons=true&theme=tokyonight" />
-<img align="right" height="200px" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaufalRachmandani&layout=compact&theme=aura&langs_count=9" />
-<img height="150" />
+
+<br><br>
+
+<img align="left" height="200px" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaufalRachmandani&layout=compact&theme=aura&langs_count=9" />
+
 <br><br>
 <br><br>
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NaufalRachmandani&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=false" alt="bc-expert" width="600px"/></a> </p>
 
-<br/>
+<br><br>
+<br><br>
+
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
