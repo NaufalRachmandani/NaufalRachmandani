@@ -7,11 +7,6 @@
 <br><br>
 <br><br>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NaufalRachmandani&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=false" alt="bc-expert" width="600px"/></a> </p>
-
-<br><br>
-<br><br>
-
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30">Connect with me 🤝 </h3>
 
 <p align="center">
