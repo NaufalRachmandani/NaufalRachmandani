@@ -1,7 +1,3 @@
-<img align="left" height="200px" width="450px" src="https://github-readme-stats.vercel.app/api?username=NaufalRachmandani&count_private=true&show_icons=true&theme=tokyonight" />
-
-<br><br>
-
 <img align="left" height="200px" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaufalRachmandani&layout=compact&theme=aura&langs_count=9" />
 
 <br><br>
