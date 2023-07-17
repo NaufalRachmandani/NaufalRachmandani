@@ -1,8 +1,5 @@
 <img align="left" height="200px" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaufalRachmandani&layout=compact&theme=aura&langs_count=9" />
 
-<br><br>
-<br><br>
-
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30">Connect with me 🤝 </h3>
 
 <p align="center">
